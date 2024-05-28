@@ -1,0 +1,11 @@
+rtGetInf.o: \
+ /Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rtGetInf.c \
+ /Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rtGetInf.h \
+ /Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rtwtypes.h \
+ /Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rt_nonfinite.h
+
+/Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rtGetInf.h:
+
+/Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rtwtypes.h:
+
+/Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rt_nonfinite.h:

@@ -1,0 +1,38 @@
+io_wrappers.o: \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/toolbox/target/supportpackages/arduinobase/src/io_wrappers.cpp \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ /Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rtwtypes.h
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/dheeraj/Documents/MATLAB/SupportPackages/R2021b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+/Users/dheeraj/Downloads/RAS\ MATERIAL/EGR-550_Mechatronics\ Systems/Project/final_project_ert_rtw/rtwtypes.h:

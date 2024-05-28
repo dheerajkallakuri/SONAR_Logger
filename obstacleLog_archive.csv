@@ -1,0 +1,503 @@
+Angle,Distance,Status
+0,31,No Obstacle
+1,29,No Obstacle
+2,28,No Obstacle
+3,29,No Obstacle
+4,29,No Obstacle
+5,30,No Obstacle
+6,33,No Obstacle
+7,164,No Obstacle
+8,163,No Obstacle
+9,14,Obstacle
+10,15,Obstacle
+11,15,Obstacle
+12,17,No Obstacle
+13,164,No Obstacle
+14,164,No Obstacle
+15,16,No Obstacle
+16,15,Obstacle
+17,15,Obstacle
+18,14,Obstacle
+19,13,Obstacle
+20,13,Obstacle
+21,12,Obstacle
+22,12,Obstacle
+23,11,Obstacle
+24,11,Obstacle
+25,10,Obstacle
+26,10,Obstacle
+27,10,Obstacle
+28,9,Obstacle
+29,8,Obstacle
+30,7,Obstacle
+31,7,Obstacle
+32,6,Obstacle
+33,6,Obstacle
+34,6,Obstacle
+35,5,Obstacle
+36,5,Obstacle
+37,5,Obstacle
+38,5,Obstacle
+39,5,Obstacle
+40,6,Obstacle
+41,6,Obstacle
+42,7,Obstacle
+43,8,Obstacle
+44,8,Obstacle
+45,10,Obstacle
+46,10,Obstacle
+47,107,No Obstacle
+48,15,Obstacle
+49,14,Obstacle
+50,163,No Obstacle
+51,164,No Obstacle
+52,21,No Obstacle
+53,164,No Obstacle
+54,27,No Obstacle
+55,36,No Obstacle
+56,34,No Obstacle
+57,34,No Obstacle
+58,34,No Obstacle
+59,24,No Obstacle
+60,23,No Obstacle
+61,23,No Obstacle
+62,23,No Obstacle
+63,24,No Obstacle
+64,23,No Obstacle
+65,23,No Obstacle
+66,25,No Obstacle
+67,29,No Obstacle
+68,24,No Obstacle
+69,22,No Obstacle
+70,22,No Obstacle
+71,163,No Obstacle
+72,24,No Obstacle
+73,163,No Obstacle
+74,71,No Obstacle
+75,68,No Obstacle
+76,16,No Obstacle
+77,15,Obstacle
+78,14,Obstacle
+79,14,Obstacle
+80,13,Obstacle
+81,13,Obstacle
+82,13,Obstacle
+83,12,Obstacle
+84,12,Obstacle
+85,12,Obstacle
+86,11,Obstacle
+87,12,Obstacle
+88,11,Obstacle
+89,11,Obstacle
+90,10,Obstacle
+91,10,Obstacle
+92,10,Obstacle
+93,10,Obstacle
+94,9,Obstacle
+95,9,Obstacle
+96,9,Obstacle
+97,9,Obstacle
+98,9,Obstacle
+99,9,Obstacle
+100,10,Obstacle
+101,9,Obstacle
+102,9,Obstacle
+103,9,Obstacle
+104,9,Obstacle
+105,9,Obstacle
+106,9,Obstacle
+107,9,Obstacle
+108,9,Obstacle
+109,9,Obstacle
+110,9,Obstacle
+111,9,Obstacle
+112,9,Obstacle
+113,9,Obstacle
+114,9,Obstacle
+115,9,Obstacle
+116,9,Obstacle
+117,9,Obstacle
+118,9,Obstacle
+119,8,Obstacle
+120,9,Obstacle
+121,9,Obstacle
+122,9,Obstacle
+123,10,Obstacle
+124,10,Obstacle
+125,10,Obstacle
+126,10,Obstacle
+127,13,Obstacle
+128,164,No Obstacle
+129,14,Obstacle
+130,15,Obstacle
+131,15,Obstacle
+132,16,No Obstacle
+133,67,No Obstacle
+134,67,No Obstacle
+135,67,No Obstacle
+136,70,No Obstacle
+137,21,No Obstacle
+138,21,No Obstacle
+139,21,No Obstacle
+140,21,No Obstacle
+141,73,No Obstacle
+142,76,No Obstacle
+143,74,No Obstacle
+144,31,No Obstacle
+145,76,No Obstacle
+146,74,No Obstacle
+147,73,No Obstacle
+148,75,No Obstacle
+149,71,No Obstacle
+150,76,No Obstacle
+151,73,No Obstacle
+152,24,No Obstacle
+153,23,No Obstacle
+154,24,No Obstacle
+155,24,No Obstacle
+156,22,No Obstacle
+157,21,No Obstacle
+158,20,No Obstacle
+159,20,No Obstacle
+160,70,No Obstacle
+161,68,No Obstacle
+162,20,No Obstacle
+163,67,No Obstacle
+164,65,No Obstacle
+165,64,No Obstacle
+166,64,No Obstacle
+167,15,Obstacle
+168,14,Obstacle
+169,14,Obstacle
+170,13,Obstacle
+171,13,Obstacle
+172,13,Obstacle
+173,13,Obstacle
+174,13,Obstacle
+175,12,Obstacle
+176,11,Obstacle
+177,11,Obstacle
+178,10,Obstacle
+179,10,Obstacle
+180,10,Obstacle
+179,9,Obstacle
+178,9,Obstacle
+177,9,Obstacle
+176,9,Obstacle
+175,8,Obstacle
+174,7,Obstacle
+173,8,Obstacle
+172,8,Obstacle
+171,7,Obstacle
+170,7,Obstacle
+169,6,Obstacle
+168,7,Obstacle
+167,6,Obstacle
+166,6,Obstacle
+165,6,Obstacle
+164,5,Obstacle
+163,5,Obstacle
+162,5,Obstacle
+161,5,Obstacle
+160,5,Obstacle
+159,5,Obstacle
+158,5,Obstacle
+157,5,Obstacle
+156,5,Obstacle
+155,5,Obstacle
+154,5,Obstacle
+153,5,Obstacle
+152,5,Obstacle
+151,5,Obstacle
+150,5,Obstacle
+149,5,Obstacle
+148,5,Obstacle
+147,5,Obstacle
+146,5,Obstacle
+145,5,Obstacle
+144,5,Obstacle
+143,5,Obstacle
+142,5,Obstacle
+141,5,Obstacle
+140,5,Obstacle
+139,5,Obstacle
+138,5,Obstacle
+137,5,Obstacle
+136,5,Obstacle
+135,5,Obstacle
+134,5,Obstacle
+133,5,Obstacle
+132,6,Obstacle
+131,6,Obstacle
+130,6,Obstacle
+129,6,Obstacle
+128,6,Obstacle
+127,6,Obstacle
+126,6,Obstacle
+125,6,Obstacle
+124,6,Obstacle
+123,6,Obstacle
+122,7,Obstacle
+121,7,Obstacle
+120,7,Obstacle
+119,8,Obstacle
+118,8,Obstacle
+117,8,Obstacle
+116,8,Obstacle
+115,8,Obstacle
+114,8,Obstacle
+113,8,Obstacle
+112,9,Obstacle
+111,9,Obstacle
+110,9,Obstacle
+109,9,Obstacle
+108,9,Obstacle
+107,10,Obstacle
+106,10,Obstacle
+105,10,Obstacle
+104,10,Obstacle
+103,11,Obstacle
+102,11,Obstacle
+101,11,Obstacle
+100,11,Obstacle
+99,12,Obstacle
+98,12,Obstacle
+97,12,Obstacle
+96,12,Obstacle
+95,13,Obstacle
+94,12,Obstacle
+93,13,Obstacle
+92,14,Obstacle
+91,14,Obstacle
+90,15,Obstacle
+89,64,No Obstacle
+88,66,No Obstacle
+87,67,No Obstacle
+86,66,No Obstacle
+85,62,No Obstacle
+84,66,No Obstacle
+83,64,No Obstacle
+82,18,No Obstacle
+81,66,No Obstacle
+80,66,No Obstacle
+79,53,No Obstacle
+78,67,No Obstacle
+77,67,No Obstacle
+76,164,No Obstacle
+75,66,No Obstacle
+74,70,No Obstacle
+73,69,No Obstacle
+72,66,No Obstacle
+71,68,No Obstacle
+70,68,No Obstacle
+69,20,No Obstacle
+68,19,No Obstacle
+67,20,No Obstacle
+66,19,No Obstacle
+65,71,No Obstacle
+64,21,No Obstacle
+63,19,No Obstacle
+62,20,No Obstacle
+61,71,No Obstacle
+60,68,No Obstacle
+59,72,No Obstacle
+58,70,No Obstacle
+57,19,No Obstacle
+56,72,No Obstacle
+55,70,No Obstacle
+54,70,No Obstacle
+53,70,No Obstacle
+52,67,No Obstacle
+51,73,No Obstacle
+50,69,No Obstacle
+49,20,No Obstacle
+48,70,No Obstacle
+47,20,No Obstacle
+46,20,No Obstacle
+45,71,No Obstacle
+44,70,No Obstacle
+43,67,No Obstacle
+42,70,No Obstacle
+41,68,No Obstacle
+40,71,No Obstacle
+39,69,No Obstacle
+38,68,No Obstacle
+37,69,No Obstacle
+36,20,No Obstacle
+35,18,No Obstacle
+34,18,No Obstacle
+33,18,No Obstacle
+32,17,No Obstacle
+31,18,No Obstacle
+30,17,No Obstacle
+29,17,No Obstacle
+28,17,No Obstacle
+27,18,No Obstacle
+26,68,No Obstacle
+25,56,No Obstacle
+24,164,No Obstacle
+23,17,No Obstacle
+22,16,No Obstacle
+21,16,No Obstacle
+20,15,Obstacle
+19,14,Obstacle
+18,14,Obstacle
+17,15,Obstacle
+16,14,Obstacle
+15,14,Obstacle
+14,15,Obstacle
+13,15,Obstacle
+12,15,Obstacle
+11,164,No Obstacle
+10,14,Obstacle
+9,13,Obstacle
+8,64,No Obstacle
+7,163,No Obstacle
+6,164,No Obstacle
+5,12,Obstacle
+4,12,Obstacle
+3,12,Obstacle
+2,10,Obstacle
+1,11,Obstacle
+0,11,Obstacle
+1,11,Obstacle
+2,12,Obstacle
+3,11,Obstacle
+4,11,Obstacle
+5,9,Obstacle
+6,10,Obstacle
+7,9,Obstacle
+8,9,Obstacle
+9,9,Obstacle
+10,9,Obstacle
+11,9,Obstacle
+12,9,Obstacle
+13,9,Obstacle
+14,9,Obstacle
+15,8,Obstacle
+16,8,Obstacle
+17,8,Obstacle
+18,8,Obstacle
+19,8,Obstacle
+20,8,Obstacle
+21,8,Obstacle
+22,8,Obstacle
+23,7,Obstacle
+24,7,Obstacle
+25,7,Obstacle
+26,8,Obstacle
+27,8,Obstacle
+28,8,Obstacle
+29,8,Obstacle
+30,8,Obstacle
+31,8,Obstacle
+32,8,Obstacle
+33,8,Obstacle
+34,8,Obstacle
+35,8,Obstacle
+36,8,Obstacle
+37,8,Obstacle
+38,7,Obstacle
+39,7,Obstacle
+40,8,Obstacle
+41,8,Obstacle
+42,8,Obstacle
+43,8,Obstacle
+44,8,Obstacle
+45,8,Obstacle
+46,8,Obstacle
+47,8,Obstacle
+48,8,Obstacle
+49,8,Obstacle
+50,9,Obstacle
+51,9,Obstacle
+52,10,Obstacle
+53,10,Obstacle
+54,9,Obstacle
+55,11,Obstacle
+56,10,Obstacle
+57,11,Obstacle
+58,11,Obstacle
+59,11,Obstacle
+60,11,Obstacle
+61,164,No Obstacle
+62,13,Obstacle
+63,14,Obstacle
+64,14,Obstacle
+65,164,No Obstacle
+66,164,No Obstacle
+67,164,No Obstacle
+68,163,No Obstacle
+69,18,No Obstacle
+70,20,No Obstacle
+71,17,No Obstacle
+72,164,No Obstacle
+73,18,No Obstacle
+74,19,No Obstacle
+75,19,No Obstacle
+76,19,No Obstacle
+77,20,No Obstacle
+78,19,No Obstacle
+79,18,No Obstacle
+80,18,No Obstacle
+81,20,No Obstacle
+82,18,No Obstacle
+83,19,No Obstacle
+84,19,No Obstacle
+85,164,No Obstacle
+86,20,No Obstacle
+87,21,No Obstacle
+88,20,No Obstacle
+89,20,No Obstacle
+90,17,No Obstacle
+91,21,No Obstacle
+92,21,No Obstacle
+93,22,No Obstacle
+94,164,No Obstacle
+95,67,No Obstacle
+96,164,No Obstacle
+97,65,No Obstacle
+98,164,No Obstacle
+99,50,No Obstacle
+100,164,No Obstacle
+101,64,No Obstacle
+102,164,No Obstacle
+103,17,No Obstacle
+104,164,No Obstacle
+105,17,No Obstacle
+106,17,No Obstacle
+107,18,No Obstacle
+108,17,No Obstacle
+109,18,No Obstacle
+110,164,No Obstacle
+111,64,No Obstacle
+112,164,No Obstacle
+113,64,No Obstacle
+114,164,No Obstacle
+115,164,No Obstacle
+116,67,No Obstacle
+117,164,No Obstacle
+118,17,No Obstacle
+119,18,No Obstacle
+120,17,No Obstacle
+121,17,No Obstacle
+122,17,No Obstacle
+123,19,No Obstacle
+124,17,No Obstacle
+125,17,No Obstacle
+126,17,No Obstacle
+127,17,No Obstacle
+128,17,No Obstacle
+129,17,No Obstacle
+130,164,No Obstacle
+131,17,No Obstacle
+132,18,No Obstacle
+133,164,No Obstacle
+134,51,No Obstacle
+135,164,No Obstacle
+136,17,No Obstacle
+137,164,No Obstacle
+138,51,No Obstacle
+139,164,No Obstacle
+140,50,No Obstacle
+141,164,No Obstacle
